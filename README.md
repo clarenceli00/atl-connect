@@ -14,8 +14,7 @@
 
 [![Hacklanta 2026](https://img.shields.io/badge/Hacklanta-2026-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgMTloMjBMMTIgMnptMCA0bDcgMTNINUwxMiA2eiIvPjwvc3ZnPg==)](https://hacklanta.dev)
 [![Cox Track](https://img.shields.io/badge/Track-Cox%20Community%20Impact-10B981?style=for-the-badge)]()
-[![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![AI Powered](https://img.shields.io/badge/AI-Kimi%20K2.5%20via%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![AI Powered](https://img.shields.io/badge/AI-Kimi%20K2.5%20via%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://build.nvidia.com/moonshotai/kimi-k2.5)
 
 </div>
 
